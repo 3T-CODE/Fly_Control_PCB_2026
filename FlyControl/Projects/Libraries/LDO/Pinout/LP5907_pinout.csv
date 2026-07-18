@@ -1,0 +1,6 @@
+Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
+LP5907.1,1,IN,Left,1,POWER,None
+LP5907.1,2,GND,Left,2,POWER,None
+LP5907.1,3,EN,Left,3,IN,None
+LP5907.1,4,N/C,Right,3,Passive,None
+LP5907.1,5,OUT,Right,1,POWER,None

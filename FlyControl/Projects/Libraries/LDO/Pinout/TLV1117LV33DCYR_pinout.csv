@@ -1,0 +1,5 @@
+Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
+TLV1117LV33.1,1,GND,Left,2,POWER,None
+TLV1117LV33.1,2,OUTPUT,Right,1,OUT,None
+TLV1117LV33.1,3,INPUT,Left,1,IN,None
+TLV1117LV33.1,4,OUTPUT,Right,2,OUT,None

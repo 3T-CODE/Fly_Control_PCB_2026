@@ -1,0 +1,10 @@
+Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
+TPS54560.1,1,BOOT,Left,1,Passive,None
+TPS54560.1,2,VIN,Left,2,POWER,None
+TPS54560.1,3,EN,Left,3,IN,None
+TPS54560.1,4,RT/CLK,Left,4,IN,None
+TPS54560.1,8,SW,Right,1,OUT,None
+TPS54560.1,7,GND,Right,2,POWER,None
+TPS54560.1,6,COMP,Right,3,Passive,None
+TPS54560.1,5,FB,Right,4,IN,None
+TPS54560.1,9,PowerPAD,Bottom,1,POWER,None

@@ -1,0 +1,11 @@
+Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
+BMP388.1,1,VDDIO,Left,1,POWER,None
+BMP388.1,2,SCK,Left,2,IN,None
+BMP388.1,3,VSS,Left,3,POWER,None
+BMP388.1,4,SDI,Left,4,I/O,None
+BMP388.1,5,SDO,Left,5,OUT,None
+BMP388.1,6,CSB,Right,1,IN,None
+BMP388.1,7,INT,Right,2,OUT,None
+BMP388.1,8,VSS,Right,3,POWER,None
+BMP388.1,9,VSS,Right,4,POWER,None
+BMP388.1,10,VDD,Right,5,POWER,None

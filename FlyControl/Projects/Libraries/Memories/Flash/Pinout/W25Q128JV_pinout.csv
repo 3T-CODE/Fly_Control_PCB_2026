@@ -1,0 +1,9 @@
+Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
+W25Q128JV.1,1,/CS,Left,1,IN,None
+W25Q128JV.1,2,DO (IO1),Left,2,I/O,None
+W25Q128JV.1,3,/WP (IO2),Left,3,I/O,None
+W25Q128JV.1,4,GND,Left,4,POWER,None
+W25Q128JV.1,5,DI (IO0),Right,4,I/O,None
+W25Q128JV.1,6,CLK,Right,3,IN,None
+W25Q128JV.1,7,/HOLD or /RESET (IO3),Right,2,I/O,None
+W25Q128JV.1,8,VCC,Right,1,POWER,None
