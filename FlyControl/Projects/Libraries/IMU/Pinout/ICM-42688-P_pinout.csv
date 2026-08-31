@@ -1,15 +1,3 @@
-Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
-ICM-42688.1,1,AP_SDO / AP_AD0,Left,6,I/O,None
-ICM-42688.1,2,RESV,Right,2,Passive,None
-ICM-42688.1,3,RESV,Right,3,Passive,None
-ICM-42688.1,4,INT1 / INT,Left,7,OUT,None
-ICM-42688.1,5,VDDIO,Left,2,POWER,None
-ICM-42688.1,6,GND,Right,1,POWER,None
-ICM-42688.1,7,RESV,Right,4,Passive,None
-ICM-42688.1,8,VDD,Left,1,POWER,None
-ICM-42688.1,9,INT2 / FSYNC / CLKIN,Left,8,I/O,None
-ICM-42688.1,10,RESV,Right,5,Passive,None
-ICM-42688.1,11,RESV,Right,6,Passive,None
-ICM-42688.1,12,AP_CS,Left,3,IN,None
-ICM-42688.1,13,AP_SCL / AP_SCLK,Left,4,IN,None
-ICM-42688.1,14,AP_SDA / AP_SDIO / AP_SDI,Left,5,I/O,None
+version https://git-lfs.github.com/spec/v1
+oid sha256:831125fe2ea792b7e37448cea864dabfc8a8c91086344ddee7286655f790fe24
+size 645

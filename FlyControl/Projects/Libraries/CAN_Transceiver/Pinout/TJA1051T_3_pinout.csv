@@ -1,9 +1,3 @@
-Part,Pin Number,Pin Name,Side,Order,Pin Type,PinShape
-TJA1051.1,1,TXD,Left,1,IN,None
-TJA1051.1,2,GND,Left,4,POWER,None
-TJA1051.1,3,VCC,Left,3,POWER,None
-TJA1051.1,4,RXD,Left,2,OUT,None
-TJA1051.1,5,VIO,Right,4,POWER,None
-TJA1051.1,6,CANL,Right,3,I/O,None
-TJA1051.1,7,CANH,Right,2,I/O,None
-TJA1051.1,8,S,Right,1,IN,None
+version https://git-lfs.github.com/spec/v1
+oid sha256:58d0f28223c77e9a949af8341f8752dd7433907a5b31230f20c674fc121a9bf8
+size 318
